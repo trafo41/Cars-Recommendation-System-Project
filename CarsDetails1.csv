@@ -1,0 +1,51 @@
+Cars name,Price,Temp spec,Specification links,Details
+Audi A4,4235000,Link1,https://www.zigwheels.com/newcars/Audi/A4/specifications,Engine power : 1998 cc Max Power : 187.74bhp@5100rpm Top Speed : 241 Km/h
+Audi A8,15700000,Link2,https://www.zigwheels.com/newcars/Audi/a8/specifications,Engine power : 2995 cc Max Power : 335.2bhp@5700rpm Top Speed : 250 Km/h
+BMW X4,6240000,Link3,https://www.zigwheels.com/newcars/BMW/x4/specifications,Engine power : 2993 cc Max Power : 261.50bhp@4000rpm Top Speed : 235 Km/h
+BMW X6,9690000,Link4,https://www.zigwheels.com/newcars/BMW/X6/specifications,Engine power : 2998 cc Max Power : 335.25bhp@6000rpm Top Speed : 248 Km/h
+Fiat Punto,6860000,Link5,https://www.cardekho.com/fiat/punto/specs,Engine power : 1172 cc Max Power : 67bhp@6000rpm Top Speed : 172Km/h
+Ford Aspire,8720000,Link6,https://www.zigwheels.com/newcars/Ford/figo-aspire/specifications,Engine power : 1499 cc Max Power : 98.96bhp@3750rpm Top Speed : 157 Km/h
+Ford Endeavour,3625000,Link7,https://www.zigwheels.com/newcars/Ford/endeavour/specifications,Engine power : 1996 cc Max Power : 167.bhp@3500rpm Top Speed : 180 Km/h
+Honda Jazz,7570000,Link8,https://www.zigwheels.com/newcars/Honda/Jazz/specifications,Engine power : 1199 cc Max Power : 98bhp@3600rpm Top Speed : 172 Km/h
+Hyundai Aura,9350000,Link9,https://www.zigwheels.com/newcars/Hyundai/aura/specifications,Engine power : 1186 cc Max Power : 73.97bhp@4000rpm Top Speed : 155 Km/h
+Hyundai Aura,9350000,Link10,https://www.zigwheels.com/newcars/Hyundai/aura/specifications,Engine power : 1186 cc Max Power : 73.97bhp@4000rpm Top Speed : 155 Km/h
+Honda WR-V,1105000,Link11,https://www.zigwheels.com/newcars/Honda/wr-v/specifications,Engine power : 1498 cc Max Power : 97.89bhp@3600rpm Top Speed : 164.26 Km/h
+Hyundai Santro,4730000,Link12,https://www.zigwheels.com/newcars/Hyundai/Santro/specifications,Engine power : 1086 cc Max Power : 68.07bhp@5500rpm Top Speed : 156 Km/h
+Hyundai Creta,1770000,Link13,https://www.zigwheels.com/newcars/Hyundai/creta/specifications,Engine power : 1353 cc Max Power : 138.08bhp@6000rpmTop Speed : 165 Km/h
+Hyundai Venue,6920000,Link14,https://www.zigwheels.com/newcars/Hyundai/venue/specifications,Engine power : 998 cc Max Power : 118.35bhp@6000rpm Top Speed :160 Km/h
+Jaguar XE,4850000,Link15,https://www.zigwheels.com/newcars/Jaguar/xe/specifications,Engine power : 1997 cc Max Power : 267.74bhp@5500rpm Top Speed : 250 Km/h
+Jeep Compass,2829000,Link16,https://www.zigwheels.com/newcars/Jeep/compass/specifications,Engine power : 1956 cc Max Power : 167.67bhp@3750rpm Top Speed : 172 Km/h
+Jeep Wrangler,5759000,Link17,https://www.zigwheels.com/newcars/Jeep/wrangler/specifications,Engine power : 1998 cc Max Power : 268bhp@5250rpm Top Speed : 180 Km/h
+Land Rover Defender,7657000,Link18,https://www.zigwheels.com/newcars/Land-Rover/defender/specifications,Engine power : 1997 cc Max Power : 296.3bhp@5500rpm Top Speed : 191.512 Km/h
+Lexus ES,6175000,Link19,https://www.zigwheels.com/newcars/Lexus/es/specifications,Engine power : 2487 cc Max Power : 214.56bhp@5700rpm Top Speed : 210 Km/h
+Lexus LX,23200000,Link20,https://www.zigwheels.com/newcars/Lexus/lx/specifications,Engine power : 5663 cc Max Power : 362bhp@5600rpmTop Speed : 210 Km/h
+Lexus RX,10300000,Link21,https://www.zigwheels.com/newcars/Lexus/rx/specifications,Engine power : 3456 cc Max Power : 258.81bhp@6000rpm Top Speed : 200 Km/h
+MG Hector,1317000,Link22,https://www.zigwheels.com/newcars/MG-Motor/hector/specifications,Engine power : 1956 cc Max Power : 167.68bhp@3750rpmTop Speed : 195 Km/h
+MG Hector Plus,1960000,Link23,https://www.zigwheels.com/newcars/MG-Motor/hector-plus/specifications,Engine power : 1956 cc Max Power : 167.67bhp@3750rpm Top Speed : 195 Km/h
+Mahindra Scorpio,1702000,Link24,https://www.zigwheels.com/newcars/Mahindra/Scorpio/specifications,Engine power : 2179 cc Max Power : 140bhp@3750rpm Top Speed : 163.81 Km/h
+Mahindra Thar,1416000,Link25,https://www.zigwheels.com/newcars/Mahindra/Thar/specifications,Engine power : 2184 cc Max Power : 130bhp@3750rpm Top Speed : 155 Km/h
+Mahindra XUV300,1309000,Link26,https://www.zigwheels.com/newcars/Mahindra/xuv300/specifications,Engine power : 1497 cc Max Power : 115bhp@3750rpm Top Speed : 176 Km/h
+Mahindra XUV500,2003000,Link27,https://www.zigwheels.com/newcars/Mahindra/XUV-500/specifications,Engine power : 2179 cc Max Power : 152.87bhp@3750rpm Top Speed : 144.57 Km/h
+Mahindra Bolero,9390000,Link28,https://www.zigwheels.com/newcars/Mahindra/bolero/specifications,Engine power : 1498 cc Max Power : 63bhp@3200rpm Top Speed : 117 Km/h
+Maruti Dzire,9020000,Link29,https://www.zigwheels.com/newcars/Maruti-Suzuki/dzire/specifications,Engine power : 1997 cc Max Power : 82bhp@6000rpm Top Speed : 155 Km/h
+Maruti Swift,8410000,Link30,https://www.zigwheels.com/newcars/Maruti-Suzuki/Swift/specifications,Engine power : 1997 cc Max Power : 88.50bhp@6000rpm Top Speed : 165 Km/h
+Maruti XL6,9940000,Link31,https://www.zigwheels.com/newcars/Maruti-Suzuki/xl6/specifications,Engine power : 1462 cc Max Power : 103.2bhp@6000rpm Top Speed : 170 Km/h
+Mercedes-Benz EQC,10400000,Link32,https://www.zigwheels.com/newcars/Mercedes-Benz/eqc/specifications,Engine power : 300 kW Max Power : 402.30Bhp@rpm Top Speed : 180 Km/h
+Mercedes-Benz GLC,6313000,Link33,https://www.zigwheels.com/newcars/Mercedes-Benz/glc/specifications,Engine power : 1950 cc Max Power : 194bhp@3800rpm Top Speed : 215 Km/h
+New Skoda Superb,3499000,Link34,https://www.zigwheels.com/newcars/Skoda/Superb/specifications,Engine power : 1984 cc Max Power : 187.74bhp@6000rpm Top Speed : 239 Km/h
+Nissan Kicks,1464000,Link35,https://www.zigwheels.com/newcars/Nissan/kicks/specifications,Engine power : 1330 cc Max Power : 153.87bhp@5500rpmTop Speed : 185 Km/h
+Nissan Magnite,1000000,Link36,https://www.zigwheels.com/newcars/Nissan/magnite/specifications,Engine power : 999 cc Max Power : 98.63bhp@5000rpm Top Speed : 187.5 Km/h
+Porsche 718,16300000,Link37,https://www.zigwheels.com/newcars/Porsche/718/specifications,Engine power : 3995 cc Max Power : 414.37bhp@7600rpmTop Speed : 275 Km/h
+Renault Duster,1412000,Link38,https://www.zigwheels.com/newcars/Renault/duster/specifications,Engine power : 1330 cc Max Power : 105 bhp @ 5600 rpm Top Speed : 170 Km/h
+Renault Kiger,9750000,Link39,https://www.zigwheels.com/newcars/Renault/kiger/specifications,Engine power : 999 cc Max Power : 98.63bhp@5000rpm Top Speed : 155 Km/h
+Tata Altroz,9550000,Link40,https://www.zigwheels.com/newcars/Tata/altroz/specifications,Engine power :1497 cc Max Power : 88.77bhp@4000rpm Top Speed : 125 Km/h
+Tata Harrier,2081000,Link41,https://www.zigwheels.com/newcars/Tata/harrier/specifications,Engine power : 1956 cc Max Power : 167.63bhp@3750rpm Top Speed : 180 Km/h
+Tata Nexon,1295000,Link42,https://www.zigwheels.com/newcars/Tata/nexon/specifications,Engine power : 1497 cc Max Power : 108.5bhp@4000rpm Top Speed : 180 Km/h
+Tata Tigor,7730000,Link43,https://www.zigwheels.com/newcars/Tata/tigor/specifications,Engine power : 1199 cc Max Power : 84bhp@6000rpm Top Speed : 164 Km/h
+Toyota Camry,4059000,Link44,https://www.zigwheels.com/newcars/Toyota/Camry/specifications,Engine power : 2487 cc Max Power : 214.5bhp@5700rpm Top Speed : 200 Km/h
+Toyota Glanza,9300000,Link45,https://www.zigwheels.com/newcars/Toyota/glanza/specifications,Engine power : 1197 cc Max Power : 81.80bhp@6000rpm Top Speed : 180 Km/h
+Toyota Innova Crysta,2459000,Link46,https://www.zigwheels.com/newcars/Toyota/Innova-Crysta/specifications,Engine power : 2393 cc Max Power : 148bhp@3400rpm Top Speed : 179 Km/h
+Volkswagen Polo,9990000,Link47,https://www.zigwheels.com/newcars/Volkswagen/polo/specifications,Engine power : 999 cc Max Power : 89bhp@4200rpm Top Speed : 164 Km/h
+Volkswagen T-Roc,2135000,Link48,https://www.zigwheels.com/newcars/Volkswagen/t-roc/specifications,Engine power : 1498 cc Max Power : 147.94bhp@6000rpm Top Speed : 205 Km/h
+Volvo S60,4590000,Link49,https://www.zigwheels.com/newcars/Volvo/s60/specifications,Engine power : 1969 cc Max Power : 190bhp@5700rpm Top Speed : 240 Km/h
+Volvo XC40,4125000,Link50,https://www.zigwheels.com/newcars/Volvo/xc40/specifications,Engine power : 1969 cc Max Power : 141.683bhp@5700rpm Top Speed : 180 Km/h
